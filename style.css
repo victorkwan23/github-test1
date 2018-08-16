@@ -1,0 +1,53 @@
+#nav{
+  float: right;
+}
+
+h1{
+  text-align: center;
+}
+
+li{
+  display: inline;
+}
+
+header{
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  border-bottom-style: solid;
+}
+
+h3{
+  color: blue;
+}
+
+body{
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+section{
+  postion: center;
+  padding-top: 50;
+  margin-left: 150;
+  margin-right: 150;
+  padding-left: 50;
+  padding-right: 50;
+}
+
+article{
+  background-color: white;
+  padding: 2;
+  margin-bottom: 1;
+  padding-left: 20;
+  padding-right: 20;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
